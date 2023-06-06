@@ -31,7 +31,10 @@ button {
   height: 2rem;
   background-color: red;
 }
-.phpScript {
+.phpScript h1,
+p,
+div {
+  padding-top: 50px;
   max-width: 1000px;
   margin: auto;
   font-size: 2rem;
