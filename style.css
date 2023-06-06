@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 1.2rem;
+}
+form {
+  max-width: 1000px;
+  margin: auto;
+  margin-top: 200px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+input {
+  margin: 2rem;
+  height: 50px;
+  width: 150px;
+}
+textarea {
+  width: 200px;
+  margin: 2rem;
+}
+button {
+  height: 40px;
+  width: 100px;
+  margin: 2rem;
+}
+.a {
+  width: 1000px;
+  height: 2rem;
+  background-color: red;
+}
+.phpScript {
+  max-width: 1000px;
+  margin: auto;
+  font-size: 2rem;
+}
